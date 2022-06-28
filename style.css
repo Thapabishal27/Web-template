@@ -1,0 +1,300 @@
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #151719;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.navbar {
+  margin-top: 12px;
+}
+
+#btn01 {
+  color: #9ca9b3;
+  font-style: bold;
+  font-size: 18px;
+  padding: 8px 24px;
+  background-color: #151719;
+  border-style: none;
+}
+
+#btn01:hover {
+  color: white;
+}
+
+#btn02 {
+  background-color: #5658dd;
+  color: white;
+  padding: 8px 24px;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+#btn02:hover {
+  background-color: #4648df;
+}
+
+#line1 {
+  color: white;
+  font-weight: 800;
+  font-size: 44px;
+  line-height: 54px;
+  text-align: center;
+  margin-top: 100px;
+}
+
+#line2 {
+  color: #9ca9b3;
+  font-weight: 400;
+  font-size: 20px;
+  margin-top: 40px;
+  width: 620px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#line3 {
+  color: white;
+  font-weight: 800;
+  font-size: 44px;
+  line-height: 54px;
+  text-align: center;
+  margin-top: 40px;
+}
+
+#line4 {
+  color: #9ca9b3;
+  font-weight: 400;
+  font-size: 20px;
+  margin-top: 20px;
+  width: 620px;
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 60px;
+}
+
+span {
+  color: #5658dd;
+}
+
+#btn1 {
+  border-radius: 4px;
+  background-color: #5658dd;
+  color: white;
+  float: right;
+  font-style: bold;
+  font-size: 18px;
+  padding: 12px;
+  border-style: none;
+}
+
+#btn1:hover {
+  background-color: #3f41e1;
+}
+
+#btn2 {
+  border-radius: 4px;
+  padding: 12px;
+  border-radius: 1px;
+  border-style: none;
+  background-color: #242830;
+  color: white;
+  font-style: 800;
+  font-size: 18px;
+}
+
+#btn2:hover {
+  background-color: #191d23;
+}
+
+#img {
+  text-align: center;
+  margin-top: 60px;
+}
+
+#box-section {
+  font-size: 20px;
+  margin-bottom: 40px;
+}
+
+#box {
+  color: white;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.fa-solid {
+  color: #5658dd;
+  font-size: 64px;
+  margin-bottom: 20px;
+}
+
+h4 {
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 34px;
+  margin-bottom: 10px;
+}
+
+#text1 {
+  font-size: 18px;
+  line-height: 28px;
+  color: #9ca9b3;
+  width: 317px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: justify;
+}
+
+#section-2nd {
+  color: white;
+  margin-bottom: 40px;
+}
+
+#section-3rd {
+  color: white;
+  margin-bottom: 40px;
+}
+
+#section-4th {
+  color: white;
+  margin-bottom: 40px;
+}
+
+#line7 {
+  color: #5658dd;
+  font-size: 14px;
+  line-height: 22px;
+  padding-top: 40px;
+}
+
+#line8 {
+  line-height: 34px;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+#line9 {
+  text-align: justify;
+  font-size: 1.2rem;
+  width: 488px;
+  color: #9ca9b3;
+}
+
+#img002 {
+  height: 400px;
+}
+
+.box001 {
+  background-color: #242830;
+  color: #9ca9b3;
+  margin-left: 12px;
+  padding: 24px 32px;
+}
+
+.box001 h3 {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#span01 {
+  color: #1cb68b;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.p1 {
+  margin-top: 10px;
+  font-size: 18px;
+  margin-bottom: 52px;
+}
+
+.box005 {
+  color: white;
+  background-color: #5658dd;
+  margin-top: 40px;
+  align-items: center;
+  border-radius: 0;
+  padding: 64px 48px;
+  display: flex;
+}
+
+.box005 h1 {
+  font-weight: bold;
+  align-items: center;
+}
+
+.form-input {
+  font-size: 16px;
+  padding: 11px 48px 11px 15px;
+  margin-left: 60px;
+  border-radius: 4px;
+  border-color: none;
+  border-style: none;
+}
+
+#arrow {
+  position: absolute;
+  color: #5658dd;
+  top: 82px;
+  right: 60px;
+  font-size: 28px;
+  text-align: center;
+  display: none;
+  margin-bottom: 20px;
+}
+
+.footer1 {
+  display: flex;
+  color: #5658dd;
+  font-size: 20px;
+  padding-bottom: 12px;
+  margin-top: 40px;
+  justify-content: space-between;
+}
+
+.social-media {
+  text-align: center;
+}
+
+.social-media i {
+  padding-left: 40px;
+}
+
+.footer2 {
+  color: #9ca9b3;
+  margin-top: 20px;
+  justify-content: space-between;
+  display: flex;
+  font-size: 12px;
+  margin-bottom: 40px;
+}
+
+.footer2 h5 {
+  font-size: 16px;
+}
+
+.link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  font-size: 16px;
+}
+
+.footer2 ul li a {
+  text-decoration: none;
+  padding-left: 20px;
+  color: #9ca9b3;
+}
+
+@media only screen and (min-width: 768px) {
+  #footer011 {
+    text-align: center;
+  }
+}
